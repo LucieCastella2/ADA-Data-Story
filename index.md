@@ -17,7 +17,11 @@ To analyse the evolution of the presence of women's voice in the media, the perc
 To detect the trend in the time series of the data, 4 different approaches were used: data was shuffled and plotted to compare to the original plot, the rolling averange was performed, the Dickey Fuller test was applied and linear regression was conducted. 
 
 - shuffling
+In this part, the percentage values from the original data were shuffled and plots were created. 
 
+(Plots from shuffling)
+
+We can see that the plots created by shuffling all look quite the same, indicating no trend, whereas the plot of the original data seems to indicate an increase in the percentage of female speakers.  
 
 - rolling
 
