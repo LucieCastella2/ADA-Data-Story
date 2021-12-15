@@ -1,7 +1,4 @@
 
-![95198-womenDay-685x368](https://user-images.githubusercontent.com/91726001/146206409-3fffada0-e452-4159-bb63-d038dff3168f.jpg)
-
-
 # The evolution of the presence of women’s voices in the media
 
 24% of the news sources -people quoted, heard, seen- are women, according to a 2015 study by the Global Media Monitoring Project (1).
