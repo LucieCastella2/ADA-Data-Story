@@ -17,6 +17,7 @@ To analyse the evolution of the presence of women's voice in the media, the perc
 To detect the trend in the time series of the data, 4 different approaches were used: data was shuffled and plotted to compare to the original plot, the rolling averange was performed, the Dickey Fuller test was applied and linear regression was conducted. 
 
 - shuffling
+
 In this part, the percentage values from the original data were shuffled and plots were created. 
 
 (Plots from shuffling)
@@ -24,6 +25,12 @@ In this part, the percentage values from the original data were shuffled and plo
 We can see that the plots created by shuffling all look quite the same, indicating no trend, whereas the plot of the original data seems to indicate an increase in the percentage of female speakers.  
 
 - rolling
+
+In statistics, rolling average (also called moving average or running average) is calculated to create a series of averages of different subsets of the full data set. When used with time series data, it smooths out short-term fluctuations and highlights long-term trends or cycles. 
+
+(Plot rolling) 
+
+In the case of this project, rolling mean (7) was performed and the plot shows the orgininal percentage of female speaker, the rolling mean of female speaker percentage and the standard deviation of the rolling mean. In this plot we can also see that the standard deviation is increased in the year 2016 and beginning of 2017, this would also explain the major fluctuations during this time in the time series plot. 
 
 - check for stationarity:
 
