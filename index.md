@@ -8,7 +8,17 @@ Are women more quoted in the media since the Me Too movement in 2017 ? Are they 
 
 ## Time Series Analysis
 
+To analyse the evolution of the presence of women's voice in the media, the percentage of quotes by female speakers in the quotebank dataset were calculated per month and ploted in a time series plot. 
+
 ![timeseries](https://user-images.githubusercontent.com/91726001/146085588-108b6842-7aea-442d-9a14-252cd152d258.png)
+
+### Trend detection
+
+- shuffling
+- rolling
+- linear regression
+
+
 
 ### Check for seasonality
 
