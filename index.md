@@ -8,6 +8,9 @@ Are women more quoted in the media since the Me Too movement in 2017 ? Are they 
 
 ![timeseries](https://user-images.githubusercontent.com/91726001/146085588-108b6842-7aea-442d-9a14-252cd152d258.png)
 
+### Check for seasonality
+
+![seasonality](https://user-images.githubusercontent.com/91726001/146163788-6e196a18-4e17-4b1c-8035-35d35199ec9a.png)
 
 
 
