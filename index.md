@@ -4,6 +4,15 @@ The goal of this project is to track the evolution of the presence of women’s 
 
 Are women more quoted in the media since the Me Too movement in 2017 ? Are they only quoted on certain subjects (eg. Feminism) ? Women of which social backgrounds, ethnicity and age are best represented in the media ? Does the MeToo movement increased women's voice in the media for topics that are not directly related the MeToo movement and feminism ?
 
+## Time Series Analysis
+
+![timeseries](https://user-images.githubusercontent.com/91726001/146085588-108b6842-7aea-442d-9a14-252cd152d258.png)
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/LucieCastella2/ADA-Data-Story/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
