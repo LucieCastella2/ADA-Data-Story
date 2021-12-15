@@ -6,6 +6,8 @@ The goal of this project is to track the evolution of the presence of women’s 
 
 Are women more quoted in the media since the Me Too movement in 2017 ? Are they only quoted on certain subjects (eg. Feminism) ? Women of which social backgrounds, ethnicity and age are best represented in the media ? Does the MeToo movement increased women's voice in the media for topics that are not directly related the MeToo movement and feminism ?
 
+
+
 ## Time Series Analysis
 
 To analyse the evolution of the presence of women's voice in the media, the percentage of quotes by female speakers in the quotebank dataset were calculated per month and ploted in a time series plot. 
@@ -20,8 +22,13 @@ To detect the trend in the time series of the data, 4 different approaches were 
 
 In this part, the percentage values from the original data were shuffled and plots were created. By comparing the plot of the original data to the plots from randomly shuffled data can be used to get some first ideas.  
 
-(Plots from shuffling)
 
+  ![shuffle1](https://user-images.githubusercontent.com/91726001/146204239-75914740-c51c-4173-bb4a-b21fb447c18f.png)  
+  ![shuffle2](https://user-images.githubusercontent.com/91726001/146204273-2c2bd68f-49c6-4a4f-b386-155fc4e941da.png)
+  ![shuffle3](https://user-images.githubusercontent.com/91726001/146204294-33f876ef-0ab8-4e76-8abd-53a3577f99f2.png)
+  ![timeseries](https://user-images.githubusercontent.com/91726001/146204753-37778a1b-3574-4df0-b55e-c9df15b3f4fe.png)
+
+          
 We can see that the plots created by shuffling all look quite the same, indicating no trend in the datapoints, whereas the plot of the original data seems to indicate an increase in the percentage of female speakers.  
 
 - Performance of rolling mean 
