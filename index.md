@@ -15,10 +15,21 @@ To analyse the evolution of the presence of women's voice in the media, the perc
 ### Trend detection
 
 - shuffling
+
+
 - rolling
+
+- check for stationarity:
+
+Stationarity is a key part of time series analysis. Stationarity means that the manner in which time series data changes is constant. A stationary time series will not have any trends or seasonal patterns. Here we will use the Dickey Fuller test to check for stationarity in our data. This test will generate critical values and a p-value, which will allow us to accept or reject the null hypothesis that there is no stationarity. If we reject the null hypothesis, we accept the alternative, which states that there is stationarity. As the p-value of the Dickey Fuller test for our data was 0.87, the null hypothesis is not being rejected and says that our time series is non-stationary. 
+
 - linear regression
 
+To calculate the trend of our data, linear regression was conducted. The plot shows a clear increase of the percentage of female speakers.  
 
+![reg](https://user-images.githubusercontent.com/91726001/146176743-ffd09169-0550-4c3d-830a-bb55086eb9bd.png)
+
+The linear regression results show an increase in the percentage of female speakers by 0.68 % per year.
 
 ### Check for seasonality
 
