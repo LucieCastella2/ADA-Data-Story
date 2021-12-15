@@ -14,6 +14,8 @@ To analyse the evolution of the presence of women's voice in the media, the perc
 
 ### Trend detection
 
+To detect the trend in the time series of the data, 4 different approaches were used: data was shuffled and plotted to compare to the original plot, the rolling averange was performed, the Dickey Fuller test was applied and linear regression was conducted. 
+
 - shuffling
 
 
