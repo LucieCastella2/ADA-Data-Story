@@ -18,11 +18,11 @@ To detect the trend in the time series of the data, 4 different approaches were 
 
 - Shuffling of percentage values
 
-In this part, the percentage values from the original data were shuffled and plots were created. 
+In this part, the percentage values from the original data were shuffled and plots were created. By comparing the plot of the original data to the plots from randomly shuffled data can be used to get some first ideas.  
 
 (Plots from shuffling)
 
-We can see that the plots created by shuffling all look quite the same, indicating no trend, whereas the plot of the original data seems to indicate an increase in the percentage of female speakers.  
+We can see that the plots created by shuffling all look quite the same, indicating no trend in the datapoints, whereas the plot of the original data seems to indicate an increase in the percentage of female speakers.  
 
 - Performance of rolling mean 
 
@@ -32,13 +32,13 @@ In statistics, rolling average (also called moving average or running average) i
 
 In the case of this project, rolling mean (7) was performed and the plot shows the orgininal percentage of female speaker, the rolling mean of female speaker percentage and the standard deviation of the rolling mean. In this plot we can also see that the standard deviation is increased in the year 2016 and beginning of 2017, this would also explain the major fluctuations during this time in the time series plot. 
 
-- check for stationarity applying the Dickey Fuller test
+- Check for stationarity in the data by applying the Dickey Fuller test
 
 Stationarity is a key part of time series analysis. Stationarity means that the manner in which time series data changes is constant. A stationary time series will not have any trends or seasonal patterns. Here we will use the Dickey Fuller test to check for stationarity in our data. This test will generate critical values and a p-value, which will allow us to accept or reject the null hypothesis that there is no stationarity. If we reject the null hypothesis, we accept the alternative, which states that there is stationarity. As the p-value of the Dickey Fuller test for our data was 0.87, the null hypothesis is not being rejected and says that our time series is non-stationary. 
 
 - Linear regression
 
-To calculate the trend of our data, linear regression was conducted. The plot shows a clear increase of the percentage of female speakers.  
+To calculate the trend in the data, linear regression was conducted. The plot shows a clear increase of the percentage of female speakers in the data.  
 
 ![reg](https://user-images.githubusercontent.com/91726001/146176743-ffd09169-0550-4c3d-830a-bb55086eb9bd.png)
 
