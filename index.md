@@ -37,7 +37,9 @@ To analyse the evolution of the presence of women's voice in the media, the perc
 
 ![timeseries](https://user-images.githubusercontent.com/91726001/146341654-82347c16-40e4-488f-9cfe-77036315b76d.png)
 
-Time series plots were also created for each year and can be seen below. 
+What is immediately noticeable when looking at the graph is that it shows particularly high fluctuations in 2016. We asked ourselves why that might be, and it turns out that the Quotebank database has fewer quotes for the year 2016. This smaller amount of data means that it has greater fluctuations. 
+
+Time series plots were also created for each year separately and can be seen below. 
 
 ![PerYear](https://user-images.githubusercontent.com/91272237/146222922-514ffc7c-0f09-4e05-ab61-1c36bbda28e1.png)
 
