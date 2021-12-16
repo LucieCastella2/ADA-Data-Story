@@ -71,7 +71,7 @@ Stationarity is a key part of time series analysis. Stationarity means that the 
 
 To calculate the trend in the data, linear regression was conducted. The plot shows a clear increase of the percentage of female speakers in the data.  
 
-![reg](https://user-images.githubusercontent.com/91726001/146176743-ffd09169-0550-4c3d-830a-bb55086eb9bd.png)
+![reg](https://user-images.githubusercontent.com/91726001/146344228-d7ee567b-7405-49f4-9140-0f1e5bab5286.png)
 
 The linear regression results show an increase in the percentage of female speakers by 0.68 % per year.
 
@@ -79,7 +79,7 @@ The linear regression results show an increase in the percentage of female speak
 
 For the time series analysis of our data, a check for seasonality was also performed to see if the percentage of female speaker has seasonal trends. To do so, the percentage data for all the years 2015-2020 were plotted monthly. 
 
-![seasonality](https://user-images.githubusercontent.com/91726001/146163788-6e196a18-4e17-4b1c-8035-35d35199ec9a.png)
+![seasonality](https://user-images.githubusercontent.com/91726001/146344280-5cf7eb3a-bc53-4bf6-bfae-4751fb554df6.png)
 
 The plots shows no trend. The data points are randomly distributed and therefore no seasonality is present in the data. 
 
