@@ -35,7 +35,7 @@ Since we can observe an intersting change in the representation of women in the 
 
 To analyse the evolution of the presence of women's voice in the media, the percentage of quotes by female speakers in the quotebank dataset were calculated per month and ploted in a time series plot. 
 
-![timeseries](https://user-images.githubusercontent.com/91726001/146085588-108b6842-7aea-442d-9a14-252cd152d258.png)
+![timeseries](https://user-images.githubusercontent.com/91726001/146341654-82347c16-40e4-488f-9cfe-77036315b76d.png)
 
 ![PerYear](https://user-images.githubusercontent.com/91272237/146222922-514ffc7c-0f09-4e05-ab61-1c36bbda28e1.png)
 
@@ -47,11 +47,10 @@ To detect the trend in the time series of the data, 4 different approaches were 
 
 In this part, the percentage values from the original data were shuffled and plots were created. By comparing the plot of the original data to the plots from randomly shuffled data can be used to get some first ideas.  
 
-
-  ![shuffle1](https://user-images.githubusercontent.com/91726001/146204239-75914740-c51c-4173-bb4a-b21fb447c18f.png)  
-  ![shuffle2](https://user-images.githubusercontent.com/91726001/146204273-2c2bd68f-49c6-4a4f-b386-155fc4e941da.png)
-  ![shuffle3](https://user-images.githubusercontent.com/91726001/146204294-33f876ef-0ab8-4e76-8abd-53a3577f99f2.png)
-  ![timeseries](https://user-images.githubusercontent.com/91726001/146204753-37778a1b-3574-4df0-b55e-c9df15b3f4fe.png)
+![shuffle1](https://user-images.githubusercontent.com/91726001/146341320-fb574c4a-2c92-4f88-ba2b-731b3421774b.png)
+![shuffle2](https://user-images.githubusercontent.com/91726001/146341284-61eba204-5580-4f16-a3ff-8396eea9fc7f.png)
+![shuffle3](https://user-images.githubusercontent.com/91726001/146341128-0f9fa9bc-10d9-42cf-aeec-7cf8602de5f8.png)
+![timeseries](https://user-images.githubusercontent.com/91726001/146341403-908bd45b-111c-41cd-8223-669558992493.png)
 
           
 We can see that the plots created by shuffling all look quite the same, indicating no trend in the datapoints, whereas the plot of the original data seems to indicate an increase in the percentage of female speakers.  
