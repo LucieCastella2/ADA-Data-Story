@@ -91,7 +91,7 @@ The plots shows no trend. The data points are randomly distributed and therefore
 
 ### Topic detection for women's speeches in 2020
 
-
+{% include pyLDAvis_women_2020.html %}
 
 
 ## Welcome to GitHub Pages
