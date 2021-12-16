@@ -7,6 +7,8 @@ The goal of this project is to track the evolution of the presence of women’s 
 
 Are women more quoted in the media since the Me Too movement in 2017 ? Are they only quoted on certain subjects (eg. Feminism) ? Women of which social backgrounds, ethnicity and age are best represented in the media ? Does the MeToo movement increased women's voice in the media for topics that are not directly related the MeToo movement and feminism ?
 
+To conduct this project and find answers to these questions, data from the quotebank dataset was used. The quotebank dataset is a corpus containing 178 million speaker-attributed quotations sourced from 196 million English news articles between August 2008 and April 2020.
+
 ## Data approach 
 
 To perform the present work we considered "male" as biological and transgender males, and "female" as biological and transgender females, and the other possibles gender  were considered as "other" gender. 
