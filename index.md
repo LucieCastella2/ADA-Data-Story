@@ -9,7 +9,7 @@ Are women more quoted in the media since the Me Too movement in 2017 ? Are they 
 
 ## Data approach 
 
-To perform the present work we considered "male" as biological and transgender males, and "female" as biological and transgender females, and the other possibles gender  were considere as "other" gender. 
+To perform the present work we considered "male" as biological and transgender males, and "female" as biological and transgender females, and the other possibles gender  were considered as "other" gender. 
 
 ## A first glance to the data
 
@@ -36,6 +36,8 @@ Since we can observe an intersting change in the representation of women in the 
 To analyse the evolution of the presence of women's voice in the media, the percentage of quotes by female speakers in the quotebank dataset were calculated per month and ploted in a time series plot. 
 
 ![timeseries](https://user-images.githubusercontent.com/91726001/146341654-82347c16-40e4-488f-9cfe-77036315b76d.png)
+
+Time series plots were also created for each year and can be seen below. 
 
 ![PerYear](https://user-images.githubusercontent.com/91272237/146222922-514ffc7c-0f09-4e05-ab61-1c36bbda28e1.png)
 
