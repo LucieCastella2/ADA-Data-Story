@@ -44,7 +44,9 @@ What is immediately noticeable when looking at the graph is that it shows partic
 
 Time series plots were also created for each year separately and can be seen below. 
 
-![PerYear](https://user-images.githubusercontent.com/91272237/146222922-514ffc7c-0f09-4e05-ab61-1c36bbda28e1.png)
+![tsy](https://user-images.githubusercontent.com/91726001/146558776-2bd8be5f-31a2-49de-944e-c3121076b7c1.png)
+
+As for the year 2020, only data from January until April is available, it is not really a time series but nevertheless we have also plotted it. 
 
 ### Trend detection
 
