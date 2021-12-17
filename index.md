@@ -36,33 +36,32 @@ Since we can observe an exciting change in the representation of women in the me
 
 ## Time Series Analysis
 
-To analyse the evolution of the presence of women's voice in the media, the percentage of quotes by female speakers in the quotebank dataset were calculated per month and ploted in a time series plot. 
+To analyse the evolution of the presence of women's voice in the media, the percentage of quotes by female speakers in the quotebank dataset were calculated per month and ploted as a time series. 
 
 ![timeseries](https://user-images.githubusercontent.com/91726001/146341654-82347c16-40e4-488f-9cfe-77036315b76d.png)
 
-What is immediately noticeable when looking at the graph is that it shows particularly high fluctuations in 2016. We asked ourselves why that might be, and it turns out that the Quotebank database has fewer quotes for the year 2016. This smaller amount of data means that it has greater fluctuations. 
+What is immediately noticeable when looking at the graph is that it shows particularly high fluctuations in year of 2016. We asked ourselves why that might be, and it turns out that the Quotebank database has fewer quotes for the year 2016. This smaller amount of data leads to these greater fluctuations. 
 
 Time series plots were also created for each year separately and can be seen below. 
 
 ![tsy](https://user-images.githubusercontent.com/91726001/146558776-2bd8be5f-31a2-49de-944e-c3121076b7c1.png)
 
-As for the year 2020, only data from January until April is available, it is not really a time series but nevertheless we have also plotted it. 
+As for the year 2020, only data from January until April is available, it is not really a time series but nevertheless we have also illustrated it. 
 
 ### Trend detection
 
-To detect the trend in the time series of the data, 4 different approaches were used: data was shuffled and plotted to compare to the original plot, the rolling averange was performed, the Dickey Fuller test was applied and linear regression was conducted. 
+To detect the trend in the time series of the data, 4 different approaches were used: data was shuffled and plotted as comparison to the original plot, the rolling averange was conducted, the Dickey Fuller test was applied and linear regression was performed. 
 
 - Shuffling of percentage values
 
-In this part, the percentage values from the original data were shuffled and plots were created. By comparing the plot of the original data to the plots from randomly shuffled data can be used to get some first ideas.  
+In this part, the percentage values from the original data were shuffled and plots were created. The approach to compare the plot of the original dat with the plots from randomly shuffled data can be used to get a first feeling for the trend of the data.
 
 ![shuffle1](https://user-images.githubusercontent.com/91726001/146341320-fb574c4a-2c92-4f88-ba2b-731b3421774b.png)
 ![shuffle2](https://user-images.githubusercontent.com/91726001/146341284-61eba204-5580-4f16-a3ff-8396eea9fc7f.png)
 ![shuffle3](https://user-images.githubusercontent.com/91726001/146341128-0f9fa9bc-10d9-42cf-aeec-7cf8602de5f8.png)
 ![timeseries](https://user-images.githubusercontent.com/91726001/146341403-908bd45b-111c-41cd-8223-669558992493.png)
-
-          
-We can see that the plots created by shuffling all look quite the same, indicating no trend in the datapoints, whereas the plot of the original data seems to indicate an increase in the percentage of female speakers.  
+        
+The plots created by shuffling all look quite similar, indicating no trend in the datapoints. In contrast to this, the plot of the original data seems to indicate an increase in the percentage of female speakers.  
 
 - Performance of rolling mean 
 
@@ -70,15 +69,15 @@ In statistics, rolling average (also called moving average or running average) i
 
 ![rolling](https://user-images.githubusercontent.com/91726001/146338375-abb3a593-a36d-4559-a1eb-d17a36724cfb.png)
 
-In the case of this project, rolling mean (7) was performed and the plot shows the orgininal percentage of female speaker, the rolling mean of female speaker percentage and the standard deviation of the rolling mean. In this plot we can also see that the standard deviation is increased in the year 2016 and beginning of 2017, this would also explain the major fluctuations during this time in the time series plot. 
+In the case of this project, rolling mean (7) was performed and the plot shows the orgininal percentage of female speaker, the rolling mean of female speaker percentage and the standard deviation of the rolling mean. This plot also nicely shows the higher standard deviations of the rolling where the data is smaller. 
 
 - Check for stationarity in the data by applying the Dickey Fuller test
 
-Stationarity is a key part of time series analysis. Stationarity means that the manner in which time series data changes is constant. A stationary time series will not have any trends or seasonal patterns. Here we will use the Dickey Fuller test to check for stationarity in our data. This test will generate critical values and a p-value, which will allow us to accept or reject the null hypothesis that there is no stationarity. If we reject the null hypothesis, we accept the alternative, which states that there is stationarity. As the p-value of the Dickey Fuller test for our data was 0.87, the null hypothesis is not being rejected and says that our time series is non-stationary. 
+One of the key elements in time series analysis is stationarity. Stationarity defines that the statistical properties of the time series are not changing over time, therefore stationary time series will not have any trends or seasonal patterns. Here we will use the Dickey Fuller test to check for stationarity in our data. The Dickey Fuller test will generate critical values and a p-value, which will allow us to accept or reject the null hypothesis. The null hypothesis is non-stationarity. If we reject the null hypothesis, we accept the alternative, which states that there is stationarity in the data. As the p-value of the Dickey Fuller test for our data was 0.87, the null hypothesis is not being rejected and our time series is non-stationary. 
 
 - Linear regression
 
-To calculate the trend in the data, linear regression was conducted. The plot shows a clear increase of the percentage of female speakers in the data.  
+To calculate the trend in the data, linear regression was conducted. The linear regression line shows a clear increase of the percentage of female speakers in the data.  
 
 ![reg](https://user-images.githubusercontent.com/91726001/146344228-d7ee567b-7405-49f4-9140-0f1e5bab5286.png)
 
@@ -86,7 +85,7 @@ The linear regression results show an increase in the percentage of female speak
 
 ### Check for seasonality
 
-For the time series analysis of our data, a check for seasonality was also performed to see if the percentage of female speaker has seasonal trends. To do so, the percentage data for all the years 2015-2020 were plotted monthly. 
+For the time series analysis of our data, a check for seasonality was also performed to see if the percentage of female speaker has a seasonal trends. To do so, the percentage data for all the years 2015-2020 were plotted monthly into one plot. 
 
 ![seasonality](https://user-images.githubusercontent.com/91726001/146344280-5cf7eb3a-bc53-4bf6-bfae-4751fb554df6.png)
 
