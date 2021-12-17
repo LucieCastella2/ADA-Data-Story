@@ -142,6 +142,7 @@ This trend is similar when only women speakers are taken into account. The age o
 ## Conclusion
 
 We can see a positive evolution of the percentage of women speakers, that is, according to earlier findings, significative and not only a hasard. The MeToo movement might have had a impact on this percentage, eventhough this is not certain. 
+A last small computation reveled that the word "feminism" only occured 30 times in all the quotes told by women in 2020 as well as 4 times the word "metoo", which is still incredibely low and show a lack of awareness on this topic. 
 The MeToo movement does not seem to have created any shift on the topics discussed by women in the quotes, but we could see that the those topics are different than those related to men. A big work still need to be done to reach equality in the representation of the genders. 
 
 
