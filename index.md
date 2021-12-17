@@ -100,14 +100,34 @@ The plots shows no trend. The data points are randomly distributed and therefore
 We now want to look into the topics on which women are cited from 2015 to 2020, do those topics change through the years? And are those topics different from the one found for men speakers?
 
 Here are first the topics found after a topic detection on the quotes of 2020 (men, women and others). 
+
 ![all_topics_2020](https://user-images.githubusercontent.com/91544456/146554902-68319286-9f47-40ca-9fbd-67a852ea7d40.png)
 
 We notice here quite easily that the four topics are related to stigmas more related to men (let us keep in mind that more than 83% of speakers cited in 2020 are still men): two topics feature the word "guy", all the topics are related to the industry or the market. We can also notice the word "strong" that is quite masculinely connoted. 
 
 Then, the topic detection was computed for women speakers only, first for 2015, and then 2020, to try to see some potential difference that could be (or not) caused by the MeToo movement.
+
 ![topics_2015](https://user-images.githubusercontent.com/91544456/146554089-9b18da28-04fa-48de-a3bd-bd524a0d9e4d.png)
 
+We can already see that the topics are different for women: we can find topics around students, and more philosophical words such as hope or live. It seems that the topic are generally more socially oriented. Let us now look at the topics for 2020 and try to see if there is a difference occuring after the MeToo movement. 
+
 ![topics_2020](https://user-images.githubusercontent.com/91544456/146554137-8e1b507b-26f1-4882-bf78-fcb46a4713b3.png)
+
+The topics stay quite similar, wich a shift from "student" to "school" and a lot on public. No conclusion can be drawn at that point.
+
+Let us now look on the evolution of the important words during the 6 years and see if they are more or less present over the year, always looking for a shift in what women are quoted for. 
+
+![trend_individual_words](https://user-images.githubusercontent.com/91544456/146592231-f448e6ad-93f5-4838-9258-6edfbb96d748.png)
+
+The words present some changes over the years. We can note for example that the occurence of health in the quotes drops, even during the COVID year. We could think this would make space for new subjects. 
+The use of other words are quite stable.
+
+Let us look for subjects related to feminism that could have gained in importance after 2017.
+Here are occurences of subjects related to feminism, computed with empath. 
+
+![feminism_evolution](https://user-images.githubusercontent.com/91544456/146591911-b29fe6b4-ed9a-47a1-a7b2-4d1ad6ab2633.png)
+
+We can see that those themes are not used more in 2020 than in 2015, even a bit less. We can therefore conclude that the MeToo movement did not bring any shift in the topics on which women are quoted, but we can thankfully still notice that there is an increase in the total number of women quoted, eventhough it stays still insufficient. 
 
 ## Age of the speakers
 
@@ -118,6 +138,10 @@ The following graph displays the year of birth of speakers from 2020's quotes.
 
 This graph shows that most speakers were born between 1960 and 1975 so are between 60 and 45 years old. The peak is at 1970 so the most common age of speakers is 50 years old for all speakers regardless of their gender.
 This trend is similar when only women speakers are taken into account. The age of the speakers is not influenced much by their gender, contrary to other aspects that have been seen before.
+
+## Conclusion
+
+We can see a positive evolution of the 
 
 
 ## Sources
