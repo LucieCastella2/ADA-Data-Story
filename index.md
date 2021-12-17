@@ -5,12 +5,13 @@
 The Me Too movement started to spread in 2017 after the sexual abuse allegations against Harvey Weinstein. This movement led to a raise of women’s voices everywhere.
 
 ![How-the-MeToo-Movement-Highlights-the-Need-for-Security-Sector-Reform-in-the-Global-North](https://user-images.githubusercontent.com/91726001/146575120-6d7682b7-c83d-4012-82c6-852e23a704ee.jpeg)
+(Source of the picture: (2) )
 
 The goal of this project is to track the evolution of the presence of women’s voices in the media following the Me Too movement, to see if a major feminist movement like this one has led to an increase in the number of women quoted. We can then see if women are underrepresented in the medias and if they are only quoted on certain subjects. We can also include the ethnicity and the age of the women that the medias highlight to find which social backgrounds are best represented.
 
 Are women more quoted in the media since the Me Too movement in 2017 ? Are they only quoted on certain subjects (eg. Feminism) ? Women of which social backgrounds, ethnicity and age are best represented in the media ? Does the MeToo movement increased women's voice in the media for topics that are not directly related the MeToo movement and feminism ?
 
-To conduct this project and find answers to these questions, data from the quotebank dataset was used. The quotebank dataset is a corpus containing 178 million speaker-attributed quotations sourced from 196 million English news articles between August 2008 and April 2020.
+To conduct this project and find answers to these questions, data from the quotebank dataset was used. The quotebank dataset is a corpus containing 178 million speaker-attributed quotations sourced from 196 million English news articles between August 2008 and April 2020 (3).
 
 ## Data approach 
 
@@ -94,7 +95,7 @@ For the time series analysis of our data, a check for seasonality was also perfo
 
 The plots shows no trend. The data points are randomly distributed and therefore no seasonality is present in the data. 
 
-### Topic detection for women's speeches in 2020
+## Topic detection for women's speeches in 2020
 
 We now want to look into the topics on which women are cited from 2015 to 2020, do those topics change through the years? And are those topics different from the one found for men speakers?
 
@@ -107,3 +108,12 @@ Then, the topic detection was computed for women speakers only, first for 2015, 
 ![topics_2015](https://user-images.githubusercontent.com/91544456/146554089-9b18da28-04fa-48de-a3bd-bd524a0d9e4d.png)
 
 ![topics_2020](https://user-images.githubusercontent.com/91544456/146554137-8e1b507b-26f1-4882-bf78-fcb46a4713b3.png)
+
+
+## Sources
+
+(1) https://www.weforum.org/agenda/2020/03/women-representation-in-media/
+
+(2) https://issat.dcaf.ch/Share/Blogs/ISSAT-Blog/How-the-MeToo-Movement-Highlights-the-Need-for-Security-Sector-Reform-in-the-Global-North
+
+(3) https://zenodo.org/record/4277311#.YbyxXy_37PD
