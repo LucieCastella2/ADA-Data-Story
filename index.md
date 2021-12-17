@@ -129,7 +129,7 @@ Here are occurences of subjects related to feminism, computed with empath.
 
 We can see that those themes are not used more in 2020 than in 2015, even a bit less. We can therefore conclude that the MeToo movement did not bring any shift in the topics on which women are quoted, but we can thankfully still notice that there is an increase in the total number of women quoted, eventhough it stays still insufficient. 
 
-## Age of the speakers
+## Age, ethnicity and occupation of the speakers
 
 What are the ages of the speakers ? What ages are most represented ?
 The following graph displays the year of birth of speakers from 2020's quotes.
@@ -138,6 +138,16 @@ The following graph displays the year of birth of speakers from 2020's quotes.
 
 This graph shows that most speakers were born between 1960 and 1975 so are between 60 and 45 years old. The peak is at 1970 so the most common age of speakers is 50 years old for all speakers regardless of their gender.
 This trend is similar when only women speakers are taken into account. The age of the speakers is not influenced much by their gender, contrary to other aspects that have been seen before.
+
+Regarding the occupation, we can see that for both men and women, the most common occupation of the speakers is politician. The following table shows the top 10 occupations for men and women speakers. The table shows that 7 of the 10 most common occupations for men speakers are related to sports. For women speakers, only 3 are related to sports and 3 are related to arts (actor, singer, writer). There are probably more men actors, singers, writers than women of these occupations that are quoted in total since much more men are quoted in general. However we can see the obvious difference of types of top occupations for both genders.
+
+<img width="612" alt="occupation" src="https://user-images.githubusercontent.com/62911897/146605638-5353b7a5-e743-4c4f-8358-9a5624b54860.png">
+
+The following table shows the top 10 ethnicity for men and women speakers. The first ethnicity for both men and women is African American which seems incorrect. The data contained a lot of NaN for ethnic groups so we assumed that many White American speakers have an ethnicity that has not been reported so is stated as NaN.
+
+<img width="523" alt="Screenshot 2021-12-17 at 21-45-18 Untitled-Copy1 - Jupyter Notebook" src="https://user-images.githubusercontent.com/62911897/146605825-674412d4-0063-4da7-a78d-f0a24eaa5c5b.png">
+
+
 
 ## Conclusion
 
