@@ -25,11 +25,11 @@ Considering the data approach for this study, one can first look at how women ar
 
 Based on the above pie chart, it is clear that men dominated with 85.6% of the gender's speakers compared to women that only represent 14.3% of the speakers and the “other” gender with almost negligible proportion (<1%).
 
-![image](https://user-images.githubusercontent.com/91272237/146229279-5de6300a-e1be-4b49-8298-cafda2cbcc73.png)
+<img width="377" alt="table_genders" src="https://user-images.githubusercontent.com/91544456/146607857-7fd8d49d-6fa8-4fbf-b1ab-c78a7030a310.png">
 
 If we analyze women’s representation for each year, we can see that the female speaker proportion from 2015 to 2020 changed from 12.6% to 16.22%, increasing 3.61%.  
 
-![eachyears](https://user-images.githubusercontent.com/91272237/146222509-d69f2460-32cd-4b87-b5b2-731be6f35123.png)
+![index2](https://user-images.githubusercontent.com/91544456/146607887-0c72146d-bfe2-4221-b8a8-8cf2e1168e9f.png)
 
 The men speaker proportion from 2015 to 2020 decreased from 87.25% to 83.71%, a 3.54% change. Meanwhile, other genders' speakers proportion only increases by 0.003%, meaning that women absorb all the differences observed in the representation of each gender category. 
 
@@ -152,7 +152,7 @@ The following table shows the top 10 ethnicity for men and women speakers. The f
 ## Conclusion
 
 We can see a positive evolution of the percentage of women speakers, that is, according to earlier findings, significative and not only a hasard. The MeToo movement might have had a impact on this percentage, eventhough this is not certain. 
-A last small computation reveled that the word "feminism" only occured 30 times in all the quotes told by women in 2020 as well as 4 times the word "metoo", which is still incredibely low and show a lack of awareness on this topic. 
+A last small computation reveled that the word "feminism" only occured 23 times in all the quotes told by women in 2020 as well as 4 times the word "metoo", which is still incredibely low and show a lack of awareness on this topic. 
 The MeToo movement does not seem to have created any shift on the topics discussed by women in the quotes, but we could see that the those topics are different than those related to men. A big work still need to be done to reach equality in the representation of the genders. 
 
 
