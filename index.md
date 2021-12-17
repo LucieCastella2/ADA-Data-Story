@@ -5,7 +5,7 @@
 The Me Too movement started to spread in 2017 after the sexual abuse allegations against Harvey Weinstein. This movement led to a raise of women’s voices everywhere.
 
 ![How-the-MeToo-Movement-Highlights-the-Need-for-Security-Sector-Reform-in-the-Global-North](https://user-images.githubusercontent.com/91726001/146575120-6d7682b7-c83d-4012-82c6-852e23a704ee.jpeg)
-(Source of the picture: (2) )
+Source of the picture: (2) 
 
 The goal of this project is to track the evolution of the presence of women’s voices in the media following the Me Too movement, to see if a major feminist movement like this one has led to an increase in the number of women quoted. We can then see if women are underrepresented in the medias and if they are only quoted on certain subjects. We can also include the ethnicity and the age of the women that the medias highlight to find which social backgrounds are best represented.
 
