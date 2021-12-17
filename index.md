@@ -15,23 +15,24 @@ To perform the present work we considered "male" as biological and transgender m
 
 ## A first glance to the data
 
-Considering the data apporach for this study, one can take as first look to how women is considered in the media as speakers relative to men and other geneders, to do that one can take all the years studied (2015 to 2020) and analysis the overall proportion. 
+Considering the data approach for this study, one can first look at how women are considered in the media as speakers relative to men and other genders. According to the latter, One can take all the years studied (2015 to 2020) and analyze the overall proportion. 
 
 ![image](https://user-images.githubusercontent.com/91272237/146225019-7ef98f47-adab-4d9e-820b-6942ddc9789d.png)
 
-Base on the above pie chart it is clear that men dominated with 85.6% of the gender's speakers compare to womans that only represent 14.3% of the speakers, and other gender with almost negible proportion (<1%).
+Based on the above pie chart, it is clear that men dominated with 85.6% of the gender's speakers compared to women that only represent 14.3% of the speakers and the “other” gender with almost negligible proportion (<1%).
 
 ![image](https://user-images.githubusercontent.com/91272237/146229279-5de6300a-e1be-4b49-8298-cafda2cbcc73.png)
 
-If instead we analyze women’s representation for each year, we can see that the female speaker proportion from 2015 to 2020 change from 12.6% to 16.22%, which is an increase of 3.61%. 
+If we analyze women’s representation for each year, we can see that the female speaker proportion from 2015 to 2020 changed from 12.6% to 16.22%, increasing 3.61%.  
 
 ![eachyears](https://user-images.githubusercontent.com/91272237/146222509-d69f2460-32cd-4b87-b5b2-731be6f35123.png)
 
-Regarding the men speaker proportion between 2015 to 2020, changing from 87.25% to	 83.71% which represent a derease of 3.54%, meanwhile other gender's speaker proportion only change increase by 0.003% meaning that womens abosrb all the change observed in the repsentation of each gender category. 
+The men speaker proportion from 2015 to 2020 decreased from 87.25% to 83.71%, a 3.54% change. Meanwhile, other genders' speaker proportion only increases by 0.003%, meaning that women absorb all the differences observed in the representation of each gender category. 
 
-Despite the latter, it is intersting to evaluate if the change observed in women proportion as speaker is statistically significant and hence a real game changing. According to this, by comparing the women proportion before 2017 to after 2017 we obtaing that the change in women proportion is statitically significant, as well as if we compare only 2017 with 2020. 
+Despite the latter, it is interesting to evaluate if the change observed in women's proportion as a speaker is statistically significant and, hence, real game-changing. By comparing the women proportion before 2017 to after 2017, we obtained that the change in women proportion is statistically significant and if we compare only 2017 with 2020. 
 
-Since we can observe an intersting change in the representation of women in the media we can now perform different analysis to have a closer insight on this ongoing phenomenon which could be associated with the two moment in 2017 or simple related to the cultural evolution since the first and the current feminism movement. 
+Since we can observe an exciting change in the representation of women in the media, we can now perform further analysis to have a closer insight on this ongoing phenomenon which could be associated with the  “Me Too” movement in 2017 or simple related to the cultural evolution since the first and the current feminism movement.
+
 
 ## Time Series Analysis
 
