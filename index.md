@@ -21,7 +21,7 @@ To perform the present work we considered "male" as biological and transgender m
 
 Considering the data approach for this study, one can first look at how women are considered in the media as speakers relative to men and other genders. According to the latter, One can take all the years studied (2015 to 2020) and analyze the overall proportion. 
 
-![index](https://user-images.githubusercontent.com/91544456/146599224-0a91d270-0bfa-48c8-b67e-cf6fa2344935.png)
+![index](https://user-images.githubusercontent.com/91544456/146603648-3d73af63-660c-49e4-b0d8-2046db792d1c.png)
 
 Based on the above pie chart, it is clear that men dominated with 85.6% of the gender's speakers compared to women that only represent 14.3% of the speakers and the “other” gender with almost negligible proportion (<1%).
 
