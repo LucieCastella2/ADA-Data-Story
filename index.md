@@ -94,5 +94,14 @@ The plots shows no trend. The data points are randomly distributed and therefore
 
 ### Topic detection for women's speeches in 2020
 
-![topics_2015](https://user-images.githubusercontent.com/91544456/146396412-deb6f536-7aa4-454c-b955-e110093f523d.png)
+We now want to look into the topics on which women are cited from 2015 to 2020, do those topics change through the years? And are those topics different from the one found for men speakers?
 
+Here are first the topics found after a topic detection on the quotes of 2020 (men, women and others). 
+![all_topics_2020](https://user-images.githubusercontent.com/91544456/146554902-68319286-9f47-40ca-9fbd-67a852ea7d40.png)
+
+We notice here quite easily that the four topics are related to stigmas more related to men (let us keep in mind that more than 83% of speakers cited in 2020 are still men): two topics feature the word "guy", all the topics are related to the industry or the market. We can also notice the word "strong" that is quite masculinely connoted. 
+
+Then, the topic detection was computed for women speakers only, first for 2015, and then 2020, to try to see some potential difference that could be (or not) caused by the MeToo movement.
+![topics_2015](https://user-images.githubusercontent.com/91544456/146554089-9b18da28-04fa-48de-a3bd-bd524a0d9e4d.png)
+
+![topics_2020](https://user-images.githubusercontent.com/91544456/146554137-8e1b507b-26f1-4882-bf78-fcb46a4713b3.png)
