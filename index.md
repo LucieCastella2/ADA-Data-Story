@@ -117,7 +117,7 @@ The following graph displays the year of birth of speakers from 2020's quotes.
 ![year_of_birth_speakers](https://user-images.githubusercontent.com/62911897/146584307-7f990e49-e0cb-42fa-a4b6-3318cf669462.png)
 
 This graph shows that most speakers were born between 1960 and 1975 so are between 60 and 45 years old. The peak is at 1970 so the most common age of speakers is 50 years old for all speakers regardless of their gender.
-This trend is similar when only women speakers are taken into account.
+This trend is similar when only women speakers are taken into account. The age of the speakers is not influenced much by their gender, contrary to other aspects that have been seen before.
 
 
 ## Sources
