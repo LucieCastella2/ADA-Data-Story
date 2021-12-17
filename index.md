@@ -21,7 +21,7 @@ To perform the present work we considered "male" as biological and transgender m
 
 Considering the data approach for this study, one can first look at how women are considered in the media as speakers relative to men and other genders. According to the latter, One can take all the years studied (2015 to 2020) and analyze the overall proportion. 
 
-![image](https://user-images.githubusercontent.com/91272237/146225019-7ef98f47-adab-4d9e-820b-6942ddc9789d.png)
+![index](https://user-images.githubusercontent.com/91544456/146599224-0a91d270-0bfa-48c8-b67e-cf6fa2344935.png)
 
 Based on the above pie chart, it is clear that men dominated with 85.6% of the gender's speakers compared to women that only represent 14.3% of the speakers and the “other” gender with almost negligible proportion (<1%).
 
@@ -31,7 +31,7 @@ If we analyze women’s representation for each year, we can see that the female
 
 ![eachyears](https://user-images.githubusercontent.com/91272237/146222509-d69f2460-32cd-4b87-b5b2-731be6f35123.png)
 
-The men speaker proportion from 2015 to 2020 decreased from 87.25% to 83.71%, a 3.54% change. Meanwhile, other genders' speaker proportion only increases by 0.003%, meaning that women absorb all the differences observed in the representation of each gender category. 
+The men speaker proportion from 2015 to 2020 decreased from 87.25% to 83.71%, a 3.54% change. Meanwhile, other genders' speakers proportion only increases by 0.003%, meaning that women absorb all the differences observed in the representation of each gender category. 
 
 Despite the latter, it is interesting to evaluate if the change observed in women's proportion as a speaker is statistically significant and, hence, real game-changing. By comparing the women proportion before 2017 to after 2017, we obtained that the change in women proportion is statistically significant and if we compare only 2017 with 2020. 
 
@@ -141,7 +141,8 @@ This trend is similar when only women speakers are taken into account. The age o
 
 ## Conclusion
 
-We can see a positive evolution of the 
+We can see a positive evolution of the percentage of women speakers, that is, according to earlier findings, significative and not only a hasard. The MeToo movement might have had a impact on this percentage, eventhough this is not certain. 
+The MeToo movement does not seem to have created any shift on the topics discussed by women in the quotes, but we could see that the those topics are different than those related to men. A big work still need to be done to reach equality in the representation of the genders. 
 
 
 ## Sources
