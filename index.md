@@ -60,11 +60,8 @@ To detect the trend in the time series of the data, 4 different approaches were 
 
 In this part, the percentage values from the original data were shuffled and plots were created. The approach to compare the plot of the original dat with the plots from randomly shuffled data can be used to get a first feeling for the trend of the data.
 
-![shuffle1](https://user-images.githubusercontent.com/91726001/146341320-fb574c4a-2c92-4f88-ba2b-731b3421774b.png)
-![shuffle2](https://user-images.githubusercontent.com/91726001/146341284-61eba204-5580-4f16-a3ff-8396eea9fc7f.png)
-![shuffle3](https://user-images.githubusercontent.com/91726001/146341128-0f9fa9bc-10d9-42cf-aeec-7cf8602de5f8.png)
-![timeseries](https://user-images.githubusercontent.com/91726001/146341403-908bd45b-111c-41cd-8223-669558992493.png)
-        
+<img width="750" alt="Bildschirmfoto 2021-12-17 um 19 11 33" src="https://user-images.githubusercontent.com/91726001/146609765-fcbc49d8-751c-4c96-b003-441f12885ddb.png">
+      
 The plots created by shuffling all look quite similar, indicating no trend in the datapoints. In contrast to this, the plot of the original data seems to indicate an increase in the percentage of female speakers.  
 
 - Performance of rolling mean 
